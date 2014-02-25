@@ -1,0 +1,10 @@
+inherit kde4
+
+NAME="mplayerthumbs"
+VERSION=4.11.5
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE video thumbnailer"
+DESCRIPTION="Part of the KDE multimedia suite"
+
+REQUIRES="mplayer"
